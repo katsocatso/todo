@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# To-do list Web App
+This app allows the user to add, remove, and complete items in a to-do list saved in local storage.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
